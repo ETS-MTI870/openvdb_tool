@@ -1,4 +1,4 @@
-# Smoke Exporter (MTI 882)
+# Smoke Exporter (MTI 870)
 
 Le Smoke Exporter est un outil compact conçu pour convertir des données de fumée au format OpenVDB en fichiers binaires. Cet utilitaire est écrit en Rust et nécessite un compilateur pour fonctionner correctement. L'utilisation de l'outil se fait en ligne de commande, offrant une flexibilité dans le processus de conversion.
 
